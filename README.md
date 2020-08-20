@@ -2,6 +2,8 @@
 
 Single site responsive website template for a company. A parallax and simple website template with only HTML, CSS and Vanilla JS 
 
+## Demo
+https://a-dridi.github.io/Website-Template-Stacks/
 
 ![Screenshot1 of template](https://raw.githubusercontent.com/a-dridi/Website-Template-Stacks/master/screenshot1.PNG)
 
